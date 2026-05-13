@@ -1,1 +1,1 @@
-Hi i am the 1st add info
+i am the conflict
